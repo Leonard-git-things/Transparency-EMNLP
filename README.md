@@ -7,7 +7,7 @@ This is the GitHub page containing the data for the paper "Linking Transparency 
 - **/annotations: Annotation guide** As mentioned before, these are the guidelines for the clarity dimension labelling.
 - **sample_100.parquet:** This is a collection of 100 unique, random SoRs that were given to the annotators to label and later used for analysing and evaluating the models.
 
-Structure tree:
+### Structure tree:
 <pre>
 GitHub_code/
 ├── annotations/
@@ -43,3 +43,7 @@ GitHub_code/
 └── README.md <- This README
 </pre>
 
+### Reference
+If you use Transparency-EMNLP, please cite our paper:
+Leonard Eßer, Gerasimos Spanakis. Linking Transparency and Accountability: Analysing The Connection
+Between TikTok’s Terms of Service and Moderation Decisions. In Proceedings of the 7th Natural Legal Language Processing Workshop (NLLP 2025), Suzhou, China (link to be added)
